@@ -92,6 +92,7 @@ The following materials from the project remain available:
 Dictionary data and OCR materials(only first letter a is seen):
 
 https://drive.google.com/drive/folders/1lDDZVqEd7t18y-7hau-C-HpJq0g5LMz3
+<img width="946" height="715" alt="image" src="https://github.com/user-attachments/assets/f266ca7b-bef4-4337-b12f-b0f8a59ba43d" />
 
 ---
 
