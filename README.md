@@ -43,6 +43,7 @@ This project became my first large-scale software development project and introd
 * phpMyAdmin
 * HTML
 * OCR-based text digitization
+<img width="1885" height="910" alt="image" src="https://github.com/user-attachments/assets/7ccc7c81-bb0a-4d20-abeb-6a021a8b7798" />
 
 ---
 
