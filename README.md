@@ -102,6 +102,19 @@ The original production database was not preserved, but the remaining materials 
 
 ---
 
+## Repository Contents
+
+- source/
+  - Remaining PHP and HTML source files
+- sample_output/
+  - Example search result pages
+- screenshots/
+  - Database screenshots and project artifacts
+- docs/
+  - Original project notes
+
+---
+
 ## Personal Reflection
 
 Looking back, this project was my first experience identifying a real-world problem, designing a solution, and implementing it as a software system.
