@@ -1,28 +1,102 @@
-Vietnamese Dictionary Project
+# Vietnamese Dictionary Project
 
-Period:
-2021-2022
+## Overview
 
-Goal:
-Digitize a Vietnamese-Japanese dictionary and make it searchable online.
+This project was a personal attempt to build a searchable Vietnamese–Japanese dictionary web application.
 
-Motivation:
-The printed dictionary cost approximately 30,000 JPY, making access difficult for students studying Vietnamese.
+The motivation came from my experience as a university student studying Vietnamese. At the time, one of the most reliable Vietnamese–Japanese dictionaries available was *詳解ベトナム語辞典*, a printed dictionary containing approximately 55,000 entries. However, the book cost around 30,000 JPY, making it difficult for many students to access.
 
-Implementation:
-- OCR-based digitization
-- PHP search application
-- MySQL database
-- phpMyAdmin database management
+To improve accessibility and usability, I started a project to digitize dictionary entries and build an online search system.
 
-Dictionary Data Link
+---
 
+## Motivation
 
-Features:
-- Keyword search
-- Search result page
-- Word detail page
+Language learning requires quick and accurate access to vocabulary and expressions.
 
-Status:
-Project archived.
-Original database files were not preserved, but source code fragments, database screenshots, design notes, and OCR materials remain.
+While studying Vietnamese, I found that students often struggled to access reliable reference materials due to the cost and inconvenience of printed dictionaries. I wanted to create a searchable system that would allow learners to find words more efficiently.
+
+This project became my first large-scale software development project and introduced me to web development, databases, and system design.
+
+---
+
+## Objectives
+
+* Digitize dictionary entries using OCR
+* Store and manage vocabulary data in a database
+* Build a web-based search interface
+* Improve accessibility of Vietnamese language resources
+
+---
+
+## Technologies Used
+
+* PHP
+* MySQL
+* phpMyAdmin
+* HTML
+* OCR-based text digitization
+
+---
+
+## System Architecture
+
+```text
+User
+  ↓
+Search Form
+  ↓
+PHP Application
+  ↓
+MySQL Database
+  ↓
+Dictionary Entries
+```
+
+---
+
+## Features
+
+* Keyword search
+* Search results page
+* Word detail page
+* Database-driven dictionary lookup
+
+---
+
+## Copyright Considerations
+
+Because the original dictionary content was copyrighted, the project was never publicly released.
+
+I discussed the possibility of publication with university faculty members, but ultimately decided not to distribute the digitized content without proper permission from the copyright holder.
+
+---
+
+## Project Assets
+
+The following materials from the project remain available:
+
+* Source code fragments
+* Design notes
+* Database screenshots
+* OCR-generated dictionary data
+
+Dictionary data and OCR materials(only first letter a is seen):
+
+https://drive.google.com/drive/folders/1lDDZVqEd7t18y-7hau-C-HpJq0g5LMz3
+
+---
+
+## Status
+
+Archived.
+
+The original production database was not preserved, but the remaining materials document the project's design, implementation, and development process.
+
+---
+
+## Personal Reflection
+
+Looking back, this project was my first experience identifying a real-world problem, designing a solution, and implementing it as a software system.
+
+The project taught me fundamental skills in database design, web application development, and data management, and it remains an important milestone in my development as an engineer.
