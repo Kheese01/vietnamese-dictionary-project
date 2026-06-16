@@ -1,5 +1,12 @@
 # Vietnamese Dictionary Project
 
+## Project Information
+- Period: 2020–2022
+- Type: Personal Project
+- Technologies: PHP, MySQL, phpMyAdmin, HTML, OCR
+- 9 months of implementation
+- Copyright considerations
+
 ## Overview
 
 This project was a personal attempt to build a searchable Vietnamese–Japanese dictionary web application.
